@@ -1,0 +1,577 @@
+Brand_Name,Capacity_in_Liters,Door_Type,Energy_Efficiency_Rating,Compressor_type,Cooling_Type,Rating,Actual_price,Offer_percentage,Selling_price,Offer_Price
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,17,12740,2660
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,40990,34,26990,14000
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,215,Single Door,5,Digital Inverter Compressor,Direct Cool,4.4,30999,33,20690,10309
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,183,Single Door,5,Digital Inverter Compressor,Direct Cool,4.4,22999,22,17890,5109
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,17,12740,2660
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,17,12740,2660
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,17,12740,2660
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,17,12740,2660
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,17,12740,2660
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,40990,34,26990,14000
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,215,Single Door,5,Digital Inverter Compressor,Direct Cool,4.4,30999,33,20690,10309
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,183,Single Door,5,Digital Inverter Compressor,Direct Cool,4.4,22999,22,17890,5109
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Whirlpool,270,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,39750,27,28990,10760
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,40990,34,26990,14000
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,215,Single Door,5,Digital Inverter Compressor,Direct Cool,4.4,30999,33,20690,10309
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.5,21699,26,15990,5709
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+SAMSUNG,183,Single Door,5,Digital Inverter Compressor,Direct Cool,4.4,22999,22,17890,5109
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,17,12740,2660
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Whirlpool,270,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,39750,27,28990,10760
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.5,21699,26,15990,5709
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Whirlpool,270,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,39750,27,28990,10760
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.5,21699,26,15990,5709
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,17,12740,2660
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,17,12740,2660
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,17,12740,2660
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,17,12740,2660
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,40990,34,26990,14000
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,215,Single Door,5,Digital Inverter Compressor,Direct Cool,4.4,30999,33,20690,10309
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,183,Single Door,5,Digital Inverter Compressor,Direct Cool,4.4,22999,22,17890,5109
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+Whirlpool,235,Double Door,3,Reciprocating Compressor,Frost Free,3.9,33400,29,23490,9910
+Whirlpool,235,Double Door,3,Inverter Compressor,Frost Free,3.9,34800,24,26290,8510
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,17,12740,2660
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,238,Double Door,3,Inverter Compressor,Frost Free,4.2,28490,15,23990,4500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,272,Double Door,3,Inverter Compressor,Frost Free,4.2,35000,21,27490,7510
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,17,12740,2660
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,40990,34,26990,14000
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,215,Single Door,5,Digital Inverter Compressor,Direct Cool,4.4,30999,33,20690,10309
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+SAMSUNG,183,Single Door,5,Digital Inverter Compressor,Direct Cool,4.4,22999,22,17890,5109
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,17,12740,2660
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,17,12740,2660
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,40990,34,26990,14000
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,215,Single Door,5,Digital Inverter Compressor,Direct Cool,4.4,30999,33,20690,10309
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,183,Single Door,5,Digital Inverter Compressor,Direct Cool,4.4,22999,22,17890,5109
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+Godrej,180,Single Door,2,Inverter Compressor,Direct Cool,4.3,16790,23,12890,3900
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,22,11990,3410
+Haier,190,Single Door,4,Normal Compressor,Direct Cool,4.4,20990,28,14990,6000
+Whirlpool,235,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,35800,27,25990,9810
+Whirlpool,192,Single Door,3,Inverter Compressor,Direct Cool,4.2,20950,23,15990,4960
+Whirlpool,235,Double Door,2,Reciprocating Compressor,Frost Free,4.3,30450,27,21990,8460
+LG,185,Single Door,4,Smart Inverter Compressor,Direct Cool,4.4,20499,20,16398,4101
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,41990,34,27490,14500
+CANDY,165,Single Door,1,Normal Compressor,Direct Cool,4.1,13490,25,9990,3500
+Godrej,183,Single Door,3,Fixed Speed Compressor,Direct Cool,4.3,21590,34,14090,7500
+LG,185,Single Door,2,Reciprocating Compressor,Direct Cool,4.4,17199,18,13990,3209
+Whirlpool,192,Single Door,5,Inverter Compressor,Direct Cool,4.4,22800,25,16990,5810
+LG,242,Double Door,3,Smart Inverter Compressor,Frost Free,4.4,37099,29,25990,11109
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+SAMSUNG,183,Single Door,4,Digital Inverter Compressor,Direct Cool,4.4,22999,26,16990,6009
+Whirlpool,215,Triple Door,4,Reciprocating Compressor,Frost Free,4.3,30150,18,24690,5460
+Godrej,180,Single Door,4,Inverter Compressor,Direct Cool,4.4,21990,31,15090,6900
+Whirlpool,207,Single Door,5,Reciprocating Compressor,Direct Cool,3.9,25850,26,18990,6860
+Godrej,183,Single Door,3,Inverter Compressor,Direct Cool,4.1,19490,29,13690,5800
+LG,185,Single Door,5,Smart Inverter Compressor,Direct Cool,4.5,22699,20,17990,4709
+Godrej,183,Single Door,2,Inverter Compressor,Direct Cool,4.3,14990,16,12590,2400
+SAMSUNG,236,Double Door,3,Digital Inverter Compressor,Frost Free,4.3,37990,32,25490,12500
+Whirlpool,184,Single Door,2,Normal Compressor,Direct Cool,4.3,15400,17,12740,2660
